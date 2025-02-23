@@ -21,7 +21,7 @@ Link to document
 Conent
 
 ### Repository
-[Enhancement One] (https://github.com/FrankSmith519/EnhancementOne)
+[Enhancement One](https://github.com/FrankSmith519/EnhancementOne)
 
 ## Enhancement Two: Algorithms and Data Structure
 Conent
