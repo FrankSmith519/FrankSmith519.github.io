@@ -6,6 +6,6 @@ layout: single
 author_profile: true
 ---
 
-Introduction:<br>
+## Introduction:
 I am Senior Automation Technician / Lead HVAC Control Programmer that is studying to obtain a Bachelors of Science in Computer Science with a concentration in Software Engineering. I have worked through the SNHU course program and which is concluding with CS - 499 and the completion of this ePortfolio.
 
