@@ -11,8 +11,12 @@ author_profile: true
 ## Introduction
 I am Senior Automation Technician / Lead HVAC Controls Programmer that is studying to obtain a Bachelors of Science in Computer Science with a concentration in Software Engineering. I have worked through the SNHU course program which is concluding with CS - 499 and the completion of this ePortfolio.
 
-## Education Review
-Test
+## Professional Self-assessment
+Completing computer science program has been one of the most challenging and satisfying things that I have even done. Experiencing core and major college courses for the first time in my life and learning how to recognize and manipulate code while also developing the ability to think critically and analyze software has not only prepared me for my future but has already helped me with my current career as a controls programmer. The more I have completed, the more questions I have all the while knowing that I am learning how to answer those questions.
+
+I enjoyed collaborating in team environments through the CRUD courses that I completed. This assisted me in identifying my role within a team and learning how to prioritize my duties while also assisting with other members on the team. Working with stakeholders and identifying what the wants and needs of a project are and learning how to meet those goals for the project has assisted me in my career as I am able to apply those skills in the field which has assisted me in obtaining positive outcomes in those cases.
+
+The artifacts and enhancements below illustrate my understanding of the course work and skills obtained throughout the course program. They identify completed pieces or work that were added upon to become something greater than what they were. These items were chosen as they properly demonstrate the range of skills that I received in completing the computer science course program.
 
 ## Code Review
 [Code Review](https://github.com/FrankSmith519/FrankSmith519.github.io/blob/master/2-2_Milestone.docx)
@@ -25,7 +29,6 @@ I wanted to include this artifact in my ePortfolio as it is as polished a final 
 I believe I was able to meet the course outcomes that I outlined in Module One and I did not need to make any updates to the coverage plans. I knew that it was going to be a challenge to get the lighting to work the way I wanted but I was able to make the necessary changes to improve the scene.
 
 As I was improving the scene, I began to understand the value adjustments to the specular and diffuse settings for the lights better. I struggled with making minute changes originally that didn’t result with the brightening that I was wanting to see. I started to iterate through the lights to confirm their functionality within the scene and I cut out a light that did not improve the lighting of the scene much. I then began to make larger changes to the specular and diffuse settings of each light which I was then able to gain an understanding of how those settings controlled the brightness and location of the lights. This allowed me to complete the artifact improvement as intended.
-
 #### Repository
 [Enhancement One](https://github.com/FrankSmith519/EnhancementOne)
 
@@ -37,7 +40,6 @@ I included this artifact within my ePortfolio as it would be a great representat
 I believe I was able to complete the outcomes that I have planned out and more. The data input has improved as the time is obtained automatically and I was able to illustrate the accurate times as the inputs are received by the user.
 
 I was able to learn how to properly obtain the local time safely as I did run into issues using localtime variables that Visual Studio did not approve of. I was able to research different methods that could be used and then properly deployed those methods to obtain the data I was intending to use.
-
 #### Repository
 [Enhancement Two](https://github.com/FrankSmith519/EnhancementTwo)
 
@@ -49,7 +51,6 @@ I wanted to include this artifact in my ePortfolio as I believe it will be an id
 I was able to meet the course outcomes regarding this enhancement as the material database was improved and the overall look of the scene improved which was the goal.
 
 This update was not very challenging as already understood how to deploy the material database updates. The only challenge was making minute adjustments to the diffuse and specular color settings as well as assigning the necessary shininess of the material to ensure the light reacted with the material properly. I spent some time with that process, but it was very straightforward.
-
 #### Repository
 [Enhancement Three](https://github.com/FrankSmith519/EnhancementThree)
 
